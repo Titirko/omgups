@@ -1,0 +1,78 @@
+h1 {
+    color: blue;
+    font-weight: normal;
+}
+
+h2 {
+    color: red;
+    background-color: black;
+}
+
+h3 {
+    color: cyan;
+    font-weight: lighter;
+}
+
+h4 {
+    color: white;
+    background-color: rgb(160, 52, 52);
+}
+
+h5 {
+    color: rgb(108, 0, 170);
+    font-weight: 500;
+}
+
+h6 {
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+
+img {
+    border: 10px red double;
+
+    /*
+    border-width: 10px;
+    border-style: double;
+    border-color: red;
+    */
+}
+
+ol li {
+    list-style-type: none;
+}
+
+ol {
+    counter-reset: list1;
+}
+
+ol li:before {
+    counter-increment: list1;
+    content: counter(list1) ". ";
+}
+
+ol ol {
+    counter-reset: list2;
+}
+
+ol ol li:before {
+    counter-increment: list2;
+    content: counter(list1) "." counter(list2) ". ";
+}
+
+
+ul:not(.contains-task-list) {
+    list-style: none;
+}
+
+ul:not(.contains-task-list) li::before {
+    content: "— ";
+}
+
+/*
+Но более коректно использовать псведо-элемент marker
+
+ul:not(.contains-task-list) li::marker {
+    content: "— ";
+}
+*/
