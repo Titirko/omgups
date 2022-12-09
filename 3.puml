@@ -1,0 +1,19 @@
+@startuml
+skinparam sequence {
+    ArrowColor #FF0000
+    ParticipantBorderColor FF0000
+    ParticipantBackgroundColor #FFF8DC
+}
+skinparam shadowing true
+
+Bob ->x Alice
+Bob -> Alice
+Bob ->> Alice
+Bob -\ Alice
+Bob \\- Alice
+Bob //-- Alice
+Bob ->o Alice
+Bob o\\-- Alice
+Bob <-> Alice
+Bob <->o Alice
+@enduml

@@ -1,0 +1,19 @@
+@startuml
+skinparam usecase {
+    BorderColor #FF0000
+    BackgroundColor #FFF8DC
+    ArrowColor #FF0000
+}
+skinparam shadowing true
+
+left to right direction
+skinparam packageStyle rectangle
+actor customer
+actor clerk
+rectangle checkout {
+customer -- (checkout)
+(checkout) .> (payment) : include
+(help) .> (checkout) : extends
+(checkout) -- clerk
+}
+@enduml
