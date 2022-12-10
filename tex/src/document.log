@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.12.10)  10 DEC 2022 11:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.12.10)  10 DEC 2022 12:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -286,7 +286,7 @@ Package babel Info: Importing font and identification data for russian
 english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
-)
+))
 (C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.s
 ty
 (C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
@@ -637,132 +637,12 @@ File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
 /libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-))))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.revi
-sion.tex)
-Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
-
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.code
-.tex
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore.
-code.tex
-\t@pgfplots@toka=\toks31
-\t@pgfplots@tokb=\toks32
-\t@pgfplots@tokc=\toks33
-\pgfplots@tmpa=\dimen194
-\c@pgfplots@coordindex=\count282
-\c@pgfplots@scanlineindex=\count283
-
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplotss
-ysgeneric.code.tex))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplots
-library.code.tex)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompati
-b\pgfplotsoldpgfsupp_loader.code.tex
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
-ryfpu.code.tex))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplots
-util.code.tex
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure
-\pgfplotsliststructure.code.tex)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure
-\pgfplotsliststructureext.code.tex)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure
-\pgfplotsarray.code.tex
-\c@pgfplotsarray@tmp=\count284
-)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure
-\pgfplotsmatrix.code.tex)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgfp
-lotstableshared.code.tex
-\c@pgfplotstable@counta=\count285
-\t@pgfplotstable@a=\toks34
-)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure
-\pgfplotsdeque.code.tex)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplots
-binary.code.tex
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplots
-binary.data.code.tex))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplots
-util.verb.code.tex)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibra
-rypgfplots.surfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count286
-
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibrar
-ypgfplots.surfshading.pgfsys-pdftex.def)))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplots
-colormap.code.tex
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplots
-color.code.tex))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstack
-edplots.code.tex)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsploth
-andlers.code.tex
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshp
-lothandler.code.tex
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshp
-lotimage.code.tex)))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.scal
-ing.code.tex)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoord
-processing.code.tex)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.erro
-rbars.code.tex)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.mark
-ers.code.tex)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsticks
-.code.tex)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.path
-s.code.tex)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
-/libraries\tikzlibrarydecorations.code.tex
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduled
-ecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen195
-\pgfdecoratedremainingdistance=\dimen196
-\pgfdecoratedinputsegmentcompleteddistance=\dimen197
-\pgfdecoratedinputsegmentremainingdistance=\dimen198
-\pgf@decorate@distancetomove=\dimen199
-\pgf@decorate@repeatstate=\count287
-\pgfdecorationsegmentamplitude=\dimen256
-\pgfdecorationsegmentlength=\dimen257
-)
-\tikz@lib@dec@box=\box62
-)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
-/libraries\tikzlibrarydecorations.pathmorphing.code.tex
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorati
-ons\pgflibrarydecorations.pathmorphing.code.tex))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
-/libraries\tikzlibrarydecorations.pathreplacing.code.tex
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorati
-ons\pgflibrarydecorations.pathreplacing.code.tex))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzlibr
-arypgfplots.contourlua.code.tex)
-\pgfplots@numplots=\count288
-\pgfplots@xmin@reg=\dimen258
-\pgfplots@xmax@reg=\dimen259
-\pgfplots@ymin@reg=\dimen260
-\pgfplots@ymax@reg=\dimen261
-\pgfplots@zmin@reg=\dimen262
-\pgfplots@zmax@reg=\dimen263
-)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
-/libraries\tikzlibraryplotmarks.code.tex
-File: tikzlibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
-ryplotmarks.code.tex
-File: pgflibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
 (C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
 ex.def
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count289
-\l__pdf_internal_box=\box63
+\l__color_backend_stack_int=\count282
+\l__pdf_internal_box=\box62
 ) (document.aux)
 \openout1 = `document.aux'.
 
@@ -787,17 +667,17 @@ LaTeX Info: Redefining \th on input line 4.
 (C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
 i
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count290
-\scratchdimen=\dimen264
-\scratchbox=\box64
-\nofMPsegments=\count291
-\nofMParguments=\count292
-\everyMPshowfont=\toks35
-\MPscratchCnt=\count293
-\MPscratchDim=\dimen265
-\MPnumerator=\count294
-\makeMPintoPDFobject=\count295
-\everyMPtoPDFconversion=\toks36
+\scratchcounter=\count283
+\scratchdimen=\dimen194
+\scratchbox=\box63
+\nofMPsegments=\count284
+\nofMParguments=\count285
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count286
+\MPscratchDim=\dimen195
+\MPnumerator=\count287
+\makeMPintoPDFobject=\count288
+\everyMPtoPDFconversion=\toks32
 )
 (C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
 se.sty
@@ -809,51 +689,35 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-
-Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
-ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
-your preamble.
- on input line 4.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 5.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 5.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 5.
-! Undefined control sequence.
-<recently read> \Beta 
-                      
-l.5 	$\Beta
-           $
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 <./images/task1.pdf, id=4, 217.70435pt x 176.34181pt>
 File: ./images/task1.pdf Graphic file (type pdf)
 <use ./images/task1.pdf>
-Package pdftex.def Info: ./images/task1.pdf  used on input line 9.
+Package pdftex.def Info: ./images/task1.pdf  used on input line 7.
 (pdftex.def)             Requested size: 217.70381pt x 176.34137pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 8.
 <./images/task2.pdf, id=5, 225.4824pt x 176.34583pt>
 File: ./images/task2.pdf Graphic file (type pdf)
 <use ./images/task2.pdf>
-Package pdftex.def Info: ./images/task2.pdf  used on input line 14.
+Package pdftex.def Info: ./images/task2.pdf  used on input line 12.
 (pdftex.def)             Requested size: 225.48184pt x 176.34538pt.
 <./images/task3.pdf, id=6, 225.4824pt x 176.3398pt>
 File: ./images/task3.pdf Graphic file (type pdf)
 <use ./images/task3.pdf>
-Package pdftex.def Info: ./images/task3.pdf  used on input line 19.
+Package pdftex.def Info: ./images/task3.pdf  used on input line 17.
 (pdftex.def)             Requested size: 225.48184pt x 176.33936pt.
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <./images/task4_1.pdf, id=7, 277.34616pt x 197.42056pt>
 File: ./images/task4_1.pdf Graphic file (type pdf)
 <use ./images/task4_1.pdf>
-Package pdftex.def Info: ./images/task4_1.pdf  used on input line 24.
+Package pdftex.def Info: ./images/task4_1.pdf  used on input line 22.
 (pdftex.def)             Requested size: 277.34547pt x 197.42006pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -861,7 +725,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <./images/task4_2.pdf, id=8, 191.98727pt x 147.41875pt>
 File: ./images/task4_2.pdf Graphic file (type pdf)
 <use ./images/task4_2.pdf>
-Package pdftex.def Info: ./images/task4_2.pdf  used on input line 29.
+Package pdftex.def Info: ./images/task4_2.pdf  used on input line 27.
 (pdftex.def)             Requested size: 191.9868pt x 147.41838pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -872,13 +736,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 1.pdf> <./images/task2.pdf>] [2 <./images/task3.pdf> <./images/task4_1.pdf>]
 [3 <./images/task4_2.pdf>] (document.aux) ) 
 Here is how much of TeX's memory you used:
- 23780 strings out of 475385
- 623297 string characters out of 2777378
- 1094079 words of memory out of 3000000
- 44793 multiletter control sequences out of 15000+600000
+ 13822 strings out of 475385
+ 283898 string characters out of 2777378
+ 597149 words of memory out of 3000000
+ 34969 multiletter control sequences out of 15000+600000
  472797 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 105i,6n,107p,728b,609s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 104i,6n,107p,413b,237s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Niky\AppData\Local\MiKTeX
 \fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk><C:/Users/Niky/AppData/Local/Prog
 rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Niky/AppData/Lo
@@ -887,7 +751,7 @@ Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/N
 iky/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/U
 sers/Niky/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb>
-Output written on document.pdf (3 pages, 81464 bytes).
+Output written on document.pdf (3 pages, 81462 bytes).
 PDF statistics:
  129 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

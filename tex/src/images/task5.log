@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.12.10)  10 DEC 2022 11:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.12.10)  10 DEC 2022 12:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -761,18 +761,18 @@ g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 7.
+(Font)              <7> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 7.
+(Font)              <5> on input line 9.
  [1
 
 {C:/Users/Niky/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 (task5.aux) ) 
 Here is how much of TeX's memory you used:
- 15416 strings out of 475385
- 327689 string characters out of 2777378
- 635326 words of memory out of 3000000
- 36515 multiletter control sequences out of 15000+600000
+ 15417 strings out of 475385
+ 327708 string characters out of 2777378
+ 636326 words of memory out of 3000000
+ 36516 multiletter control sequences out of 15000+600000
  470056 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  104i,7n,107p,410b,744s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -781,7 +781,7 @@ sfonts/cm/cmmi10.pfb><C:/Users/Niky/AppData/Local/Programs/MiKTeX/fonts/type1/p
 ublic/amsfonts/cm/cmr10.pfb><C:/Users/Niky/AppData/Local/Programs/MiKTeX/fonts/
 type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Niky/AppData/Local/Programs/MiKTeX/
 fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on task5.pdf (1 page, 36229 bytes).
+Output written on task5.pdf (1 page, 36237 bytes).
 PDF statistics:
  29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

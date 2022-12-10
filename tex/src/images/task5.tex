@@ -2,7 +2,10 @@
 \usetikzlibrary {circuits.logic.IEC, positioning}
 
 \begin{document}
-	\begin{tikzpicture}[circuit logic IEC, circuit declare symbol=foo, set foo graphic={draw,shape=rectangle,minimum size=1mm}]
+	\begin{tikzpicture}[
+		circuit logic IEC,
+		circuit declare symbol=foo, set foo graphic={draw,shape=rectangle,minimum size=1mm,fill=blue}
+		]
 		
 		\node [nor gate] (g1) {};
 		\node [nor gate, below=2cm of g1] (g2) {};
