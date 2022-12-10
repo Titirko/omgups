@@ -1,0 +1,27 @@
+\input{./preamble.tex}
+\usetikzlibrary {circuits.logic.IEC, positioning}
+
+\begin{document}
+	\begin{tikzpicture}[circuit logic IEC]
+		
+		\node (R) {$R$};
+		\node [below=2cm of R] (S) {$S$};
+		\node [nor gate, right=1cm of R] (g1) {};
+		\node [nor gate, right=1cm of S] (g2) {};
+		\node [right=2cm of g1] (Q) {$Q$};
+		\node [right=2cm of g2] (Q1) {$Q1$};
+		
+		\draw
+			(R) -- (g1.input 1)
+			(S) -- (g2.input 2)
+			
+			(g1.output) -- (Q)
+			(g2.output) -- (Q1)
+		
+			(g1.input 2) -- ++(left:5mm) -- (Q1)
+			
+			(g2.input 1) -- ++(left:5mm) -- (Q)
+		;
+
+	\end{tikzpicture}
+\end{document}
