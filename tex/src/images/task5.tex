@@ -2,25 +2,29 @@
 \usetikzlibrary {circuits.logic.IEC, positioning}
 
 \begin{document}
-	\begin{tikzpicture}[circuit logic IEC]
+	\begin{tikzpicture}[circuit logic IEC, circuit declare symbol=foo, set foo graphic={draw,shape=rectangle,minimum size=1mm}]
 		
-		\node (R) {$R$};
-		\node [below=2cm of R] (S) {$S$};
-		\node [nor gate, right=1cm of R] (g1) {};
-		\node [nor gate, right=1cm of S] (g2) {};
-		\node [right=2cm of g1] (Q) {$Q$};
-		\node [right=2cm of g2] (Q1) {$Q1$};
+		\node [nor gate] (g1) {};
+		\node [nor gate, below=2cm of g1] (g2) {};
+		
+		\node [left=1cm of g1.input 1] (R) {$R$};
+		\node [left=1cm of g2.input 2] (S) {$S$};
+		
+		\node [foo, right=1cm of g1] (p1) {};
+		\node [foo, right=1cm of g2] (p2) {};
+				
+		\node [right=1cm of p1] (Q) {$Q$};
+		\node [right=1cm of p2] (Q1) {$Q1$};
 		
 		\draw
 			(R) -- (g1.input 1)
 			(S) -- (g2.input 2)
 			
-			(g1.output) -- (Q)
-			(g2.output) -- (Q1)
+			(g1.output) -- (p1) -- (Q)
+			(g2.output) -- (p2) -- (Q1)
 		
-			(g1.input 2) -- ++(left:5mm) -- (Q1)
-			
-			(g2.input 1) -- ++(left:5mm) -- (Q)
+			(g1.input 2) -- ++(left:5mm) -- (p2)
+			(g2.input 1) -- ++(left:5mm) -- (p1)
 		;
 
 	\end{tikzpicture}
