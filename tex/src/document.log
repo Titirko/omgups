@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.12.10)  10 DEC 2022 12:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.12.9)  12 DEC 2022 19:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,9 +6,9 @@ entering extended mode
 (document.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-09-28> (preamble.tex
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+(D:\.programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+(D:\.programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -23,15 +23,15 @@ File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+(D:\.programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2aenc.def
+(D:\.programs\MiKTeX\tex/latex/cyrillic\t2aenc.def
 File: t2aenc.def 2022/06/11 v1.0j Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
 
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/base\t2aenc.dfu
+(D:\.programs\MiKTeX\tex/latex/base\t2aenc.dfu
 File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
@@ -235,33 +235,32 @@ File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
 12.
 
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
+(D:\.programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+(D:\.programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(D:\.programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2022/10/04 3.81 The Babel package
 \babel@savecnt=\count193
 \U@D=\dimen139
 \l@unhyphenated=\language79
 
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+(D:\.programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count194
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+(D:\.programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ld
-f
+(D:\.programs\MiKTeX\tex/latex/babel-english\english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
@@ -270,67 +269,58 @@ Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 (babel)             (\language73). Reported on input line 108.
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/babel-russian\russianb.l
-df
+(D:\.programs\MiKTeX\tex/latex/babel-russian\russianb.ldf
 File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
 Language: russian 2020/09/09 1.3k Russian support for the Babel system
 Package babel Info: Making " an active character on input line 124.
 Package babel Info: Default for \cyrdash is provided on input line 163.
 ))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/ru\babel-
-russian.tex
+(D:\.programs\MiKTeX\tex/generic/babel/locale/ru\babel-russian.tex
 Package babel Info: Importing font and identification data for russian
 (babel)             from babel-ru.ini. Reported on input line 11.
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-
-english.tex
+(D:\.programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
 ))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.s
-ty
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
-
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
-common.tex
+(D:\.programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty
+(D:\.programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(D:\.programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+(D:\.programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
 \pgfutil@everybye=\toks18
 \pgfutil@tempdima=\dimen140
 \pgfutil@tempdimb=\dimen141
 
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
-common-lists.tex))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
-latex.def
+(D:\.programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common-lists.tex))
+(D:\.programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
 \pgfutil@abb=\box51
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.c
-ode.tex
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+(D:\.programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
 Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
 ))
 Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.s
-ty (C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(D:\.programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty
+(D:\.programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+
+(D:\.programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(D:\.programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+(D:\.programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
-g
+(D:\.programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+(D:\.programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 \stockwidth=\dimen142
 \stockheight=\dimen143
@@ -338,19 +328,15 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 \Gin@req@height=\dimen144
 \Gin@req@width=\dimen145
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.s
-ty
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
-.code.tex
+(D:\.programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty
+(D:\.programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
 Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.
-code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks20
 \pgfkeys@temptoks=\toks21
 
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysf
-iltered.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex
 \pgfkeys@tmptoks=\toks22
 ))
 \pgf@x=\dimen146
@@ -374,39 +360,34 @@ iltered.code.tex
 \t@pgf@tokc=\toks25
 \pgf@sys@id@count=\count199
 
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cf
-g
+(D:\.programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
--pdftex.def
+(D:\.programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
--common-pdf.def
+(D:\.programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
-softpath.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfsyssoftpath@smallbuffer@items=\count266
 \pgfsyssoftpath@bigbuffer@items=\count267
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
-protocol.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(D:\.programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+(D:\.programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
 
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+(D:\.programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
 Package xcolor Info: Model `RGB' extended on input line 1369.
@@ -417,18 +398,13 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
-.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
 Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
-tex
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.c
-ode.tex
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.c
-ode.tex)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser
-.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex)
+(D:\.programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen156
 \pgfmath@count=\count268
 \pgfmath@box=\box52
@@ -436,32 +412,20 @@ ode.tex)
 \pgfmath@stack@operand=\toks27
 \pgfmath@stack@operation=\toks28
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
-ons.code.tex
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
-ons.basic.code.tex)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
-ons.trigonometric.code.tex)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
-ons.random.code.tex)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
-ons.comparison.code.tex)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
-ons.base.code.tex)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
-ons.round.code.tex)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
-ons.misc.code.tex)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
-ons.integerarithmetics.code.tex)))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.
-code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex)
+(D:\.programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.t
+ex) (D:\.programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex)
+(D:\.programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex)
+(D:\.programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex)
+(D:\.programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex)
+(D:\.programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
+(D:\.programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.c
+ode.tex))) (D:\.programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count269
 ))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.t
-ex)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
-points.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex)
+(D:\.programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@picminx=\dimen157
 \pgf@picmaxx=\dimen158
@@ -478,132 +442,102 @@ File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@zx=\dimen169
 \pgf@zy=\dimen170
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
-pathconstruct.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@path@lastx=\dimen171
 \pgf@path@lasty=\dimen172
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
-pathusage.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@shorten@end@additional=\dimen173
 \pgf@shorten@start@additional=\dimen174
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
-scopes.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfpic=\box53
 \pgf@hbox=\box54
 \pgf@layerbox@main=\box55
 \pgf@picture@serial@count=\count270
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
-graphicstate.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgflinewidth=\dimen175
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
-transformations.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@pt@x=\dimen176
 \pgf@pt@y=\dimen177
 \pgf@pt@temp=\dimen178
-)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
-quick.code.tex
+) (D:\.programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
-objects.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
-pathprocessing.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
-arrows.code.tex
+) (D:\.programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfarrowsep=\dimen179
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
-shade.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@max=\dimen180
 \pgf@sys@shading@range@num=\count271
 \pgf@shadingcount=\count272
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
-image.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
-external.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfexternal@startupbox=\box56
 ))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
-layers.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
-transparency.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
-patterns.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
-rdf.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodules
-hapes.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfnodeparttextbox=\box57
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulep
-lot.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
-p-version-0-65.sty
+(D:\.programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@nodesepstart=\dimen181
 \pgf@nodesepend=\dimen182
 )
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
-p-version-1-18.sty
+(D:\.programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
 ))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
-
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.st
-y
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.
-code.tex))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
-tex))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.c
-ode.tex
+(D:\.programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+(D:\.programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty
+(D:\.programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex))
+(D:\.programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(D:\.programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex))
+(D:\.programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
 Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
-tex)
+(D:\.programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)
 \pgffor@iter=\dimen183
 \pgffor@skip=\dimen184
 \pgffor@stack=\toks29
 \pgffor@toks=\toks30
 ))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
-\tikz.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
-ryplothandlers.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgf@plot@mark@count=\count273
 \pgfplotmarksize=\dimen185
@@ -624,9 +558,7 @@ File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \tikznumberofchildren=\count275
 \tikznumberofcurrentchild=\count276
 \tikz@fig@count=\count277
-
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulem
-atrix.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfmatrixcurrentrow=\count278
 \pgfmatrixcurrentcolumn=\count279
@@ -634,12 +566,10 @@ File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 \tikz@expandcount=\count281
 
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
-/libraries\tikzlibrarytopaths.code.tex
+(D:\.programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryto
+paths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)))
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
-ex.def
+))) (D:\.programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count282
 \l__pdf_internal_box=\box62
@@ -663,9 +593,7 @@ LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 LaTeX Info: Redefining \th on input line 4.
-
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
-i
+ (D:\.programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count283
 \scratchdimen=\dimen194
@@ -678,15 +606,12 @@ i
 \MPnumerator=\count287
 \makeMPintoPDFobject=\count288
 \everyMPtoPDFconversion=\toks32
-)
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
-se.sty
+) (D:\.programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(C:\Users\Niky\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
-g
+(D:\.programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 <./images/task1.pdf, id=4, 217.70435pt x 176.34181pt>
@@ -730,30 +655,39 @@ Package pdftex.def Info: ./images/task4_2.pdf  used on input line 27.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+<./images/task5.pdf, id=9, 145.4263pt x 115.30579pt>
+File: ./images/task5.pdf Graphic file (type pdf)
+<use ./images/task5.pdf>
+Package pdftex.def Info: ./images/task5.pdf  used on input line 32.
+(pdftex.def)             Requested size: 145.42593pt x 115.3055pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 [1
 
-{C:/Users/Niky/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/task
-1.pdf> <./images/task2.pdf>] [2 <./images/task3.pdf> <./images/task4_1.pdf>]
-[3 <./images/task4_2.pdf>] (document.aux) ) 
+{C:/Users/nikyoff/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/t
+ask1.pdf> <./images/task2.pdf>] [2 <./images/task3.pdf> <./images/task4_1.pdf>]
+ [3 <./images/task4_2.pdf> <./images/task5.pdf>] (document.aux) ) 
 Here is how much of TeX's memory you used:
- 13822 strings out of 475385
- 283898 string characters out of 2777378
+ 13832 strings out of 475385
+ 278999 string characters out of 2788626
  597149 words of memory out of 3000000
- 34969 multiletter control sequences out of 15000+600000
+ 34978 multiletter control sequences out of 15000+600000
  472797 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  104i,6n,107p,413b,237s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\Niky\AppData\Local\MiKTeX
-\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk><C:/Users/Niky/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Niky/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Niky/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/N
-iky/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/U
-sers/Niky/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb>
-Output written on document.pdf (3 pages, 81462 bytes).
+ <C:\Users\nik
+yoff\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk><D:/.pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/.programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmmi12.pfb><D:/.programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmr10.pfb><D:/.programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12
+.pfb><D:/.programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/.programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/.programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><D:/.programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmsy7.pfb>
+Output written on document.pdf (3 pages, 112091 bytes).
 PDF statistics:
- 129 PDF objects out of 1000 (max. 8388607)
+ 160 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
 

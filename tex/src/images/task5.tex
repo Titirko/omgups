@@ -4,7 +4,7 @@
 \begin{document}
 	\begin{tikzpicture}[
 		circuit logic IEC,
-		circuit declare symbol=foo, set foo graphic={draw,shape=rectangle,minimum size=1mm,fill=blue}
+		every circuit symbol/.style={logic gate IEC symbol color=black, fill=blue!20, draw=blue, very thick}
 		]
 		
 		\node [nor gate] (g1) {};
@@ -13,8 +13,8 @@
 		\node [left=1cm of g1.input 1] (R) {$R$};
 		\node [left=1cm of g2.input 2] (S) {$S$};
 		
-		\node [foo, right=1cm of g1] (p1) {};
-		\node [foo, right=1cm of g2] (p2) {};
+		\node [draw, shape=rectangle, minimum size=5px, fill=blue, right=1cm of g1] (p1) {};
+		\node [draw, shape=rectangle, minimum size=5px, fill=blue, right=1cm of g2] (p2) {};
 				
 		\node [right=1cm of p1] (Q) {$Q$};
 		\node [right=1cm of p2] (Q1) {$Q1$};

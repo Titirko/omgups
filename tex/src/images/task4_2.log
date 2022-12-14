@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.12.9)  9 DEC 2022 20:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.12.9)  12 DEC 2022 19:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -316,7 +316,7 @@ Package babel Info: Importing font and identification data for russian
 (D:\.programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
-)
+))
 (D:\.programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty
 (D:\.programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
 (D:\.programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
@@ -599,100 +599,7 @@ File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (D:\.programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryto
 paths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)))) (D:\.programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty
-(D:\.programs\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex)
-Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
-
-(D:\.programs\MiKTeX\tex/generic/pgfplots\pgfplots.code.tex
-(D:\.programs\MiKTeX\tex/generic/pgfplots\pgfplotscore.code.tex
-\t@pgfplots@toka=\toks32
-\t@pgfplots@tokb=\toks33
-\t@pgfplots@tokc=\toks34
-\pgfplots@tmpa=\dimen194
-\c@pgfplots@coordindex=\count285
-\c@pgfplots@scanlineindex=\count286
-
-(D:\.programs\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex))
-(D:\.programs\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex)
-(D:\.programs\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loa
-der.code.tex
-(D:\.programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex))
-(D:\.programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.code.tex
-(D:\.programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructure.c
-ode.tex)
-(D:\.programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructureex
-t.code.tex)
-(D:\.programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
-\c@pgfplotsarray@tmp=\count287
-)
-(D:\.programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex
-)
-(D:\.programs\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
-\c@pgfplotstable@counta=\count288
-\t@pgfplotstable@a=\toks35
-)
-(D:\.programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex)
-(D:\.programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex
-(D:\.programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex))
-(D:\.programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex)
-(D:\.programs\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.c
-ode.tex
-\c@pgfplotslibrarysurf@no=\count289
-
-(D:\.programs\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pg
-fsys-pdftex.def)))
-(D:\.programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex
-(D:\.programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex))
-(D:\.programs\MiKTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex)
-(D:\.programs\MiKTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex
-(D:\.programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex
-(D:\.programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex)))
-(D:\.programs\MiKTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex)
-(D:\.programs\MiKTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex)
-(D:\.programs\MiKTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex)
-(D:\.programs\MiKTeX\tex/generic/pgfplots\pgfplots.markers.code.tex)
-(D:\.programs\MiKTeX\tex/generic/pgfplots\pgfplotsticks.code.tex)
-(D:\.programs\MiKTeX\tex/generic/pgfplots\pgfplots.paths.code.tex)
-(D:\.programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryde
-corations.code.tex
-(D:\.programs\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen195
-\pgfdecoratedremainingdistance=\dimen196
-\pgfdecoratedinputsegmentcompleteddistance=\dimen197
-\pgfdecoratedinputsegmentremainingdistance=\dimen198
-\pgf@decorate@distancetomove=\dimen199
-\pgf@decorate@repeatstate=\count290
-\pgfdecorationsegmentamplitude=\dimen256
-\pgfdecorationsegmentlength=\dimen257
-)
-\tikz@lib@dec@box=\box63
-)
-(D:\.programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryde
-corations.pathmorphing.code.tex
-(D:\.programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecoration
-s.pathmorphing.code.tex))
-(D:\.programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryde
-corations.pathreplacing.code.tex
-(D:\.programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecoration
-s.pathreplacing.code.tex))
-(D:\.programs\MiKTeX\tex/generic/pgfplots/libs\tikzlibrarypgfplots.contourlua.c
-ode.tex)
-\pgfplots@numplots=\count291
-\pgfplots@xmin@reg=\dimen258
-\pgfplots@xmax@reg=\dimen259
-\pgfplots@ymin@reg=\dimen260
-\pgfplots@ymax@reg=\dimen261
-\pgfplots@zmin@reg=\dimen262
-\pgfplots@zmax@reg=\dimen263
-)
-(D:\.programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypl
-otmarks.code.tex
-File: tikzlibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-
-(D:\.programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
-File: pgflibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)))
-(D:\.programs\MiKTeX\tex/latex/tkz-graph\tkz-graph.sty
+))) (D:\.programs\MiKTeX\tex/latex/tkz-graph\tkz-graph.sty
 2021/01/20 v 2.00 tkz-graph.sty
 Package: tkz-graph 2021/01/20 2.00 base for graphs
 (D:\.programs\MiKTeX\tex/latex/base\ifthen.sty
@@ -704,18 +611,18 @@ File: tikzlibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
 (D:\.programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.code.tex
 File: pgflibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\arrowsize=\dimen264
+\arrowsize=\dimen194
 ))
-\c@tkz@gr@a=\count292
-\c@tkz@gr@b=\count293
-\c@tkz@gr@c=\count294
-\c@tkz@gr@e=\count295
-\c@tkz@gr@d=\count296
-\c@tkz@gr@p=\count297
-\c@tkz@gr@i=\count298
-\c@tkz@gr@n=\count299
-\c@tkz@gr@ta=\count300
-\c@tkz@gr@tb=\count301
+\c@tkz@gr@a=\count285
+\c@tkz@gr@b=\count286
+\c@tkz@gr@c=\count287
+\c@tkz@gr@e=\count288
+\c@tkz@gr@d=\count289
+\c@tkz@gr@p=\count290
+\c@tkz@gr@i=\count291
+\c@tkz@gr@n=\count292
+\c@tkz@gr@ta=\count293
+\c@tkz@gr@tb=\count294
 )
 (D:\.programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryau
 tomata.code.tex
@@ -728,26 +635,26 @@ File: tikzlibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 (D:\.programs\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.multipar
 t.code.tex
 File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfnodepartlowerbox=\box64
-\pgfnodeparttwobox=\box65
-\pgfnodepartthreebox=\box66
-\pgfnodepartfourbox=\box67
-\pgfnodeparttwentybox=\box68
-\pgfnodepartnineteenbox=\box69
-\pgfnodeparteighteenbox=\box70
-\pgfnodepartseventeenbox=\box71
-\pgfnodepartsixteenbox=\box72
-\pgfnodepartfifteenbox=\box73
-\pgfnodepartfourteenbox=\box74
-\pgfnodepartthirteenbox=\box75
-\pgfnodeparttwelvebox=\box76
-\pgfnodepartelevenbox=\box77
-\pgfnodeparttenbox=\box78
-\pgfnodepartninebox=\box79
-\pgfnodeparteightbox=\box80
-\pgfnodepartsevenbox=\box81
-\pgfnodepartsixbox=\box82
-\pgfnodepartfivebox=\box83
+\pgfnodepartlowerbox=\box63
+\pgfnodeparttwobox=\box64
+\pgfnodepartthreebox=\box65
+\pgfnodepartfourbox=\box66
+\pgfnodeparttwentybox=\box67
+\pgfnodepartnineteenbox=\box68
+\pgfnodeparteighteenbox=\box69
+\pgfnodepartseventeenbox=\box70
+\pgfnodepartsixteenbox=\box71
+\pgfnodepartfifteenbox=\box72
+\pgfnodepartfourteenbox=\box73
+\pgfnodepartthirteenbox=\box74
+\pgfnodeparttwelvebox=\box75
+\pgfnodepartelevenbox=\box76
+\pgfnodeparttenbox=\box77
+\pgfnodepartninebox=\box78
+\pgfnodeparteightbox=\box79
+\pgfnodepartsevenbox=\box80
+\pgfnodepartsixbox=\box81
+\pgfnodepartfivebox=\box82
 )))
 (D:\.programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarypo
 sitioning.code.tex
@@ -755,8 +662,8 @@ File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
 (D:\.programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count302
-\l__pdf_internal_box=\box84
+\l__color_backend_stack_int=\count295
+\l__pdf_internal_box=\box83
 ) (task4_2.aux)
 \openout1 = `task4_2.aux'.
 
@@ -780,17 +687,17 @@ LaTeX Info: Redefining \th on input line 6.
 
 (D:\.programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count303
-\scratchdimen=\dimen265
-\scratchbox=\box85
-\nofMPsegments=\count304
-\nofMParguments=\count305
-\everyMPshowfont=\toks36
-\MPscratchCnt=\count306
-\MPscratchDim=\dimen266
-\MPnumerator=\count307
-\makeMPintoPDFobject=\count308
-\everyMPtoPDFconversion=\toks37
+\scratchcounter=\count296
+\scratchdimen=\dimen195
+\scratchbox=\box84
+\nofMPsegments=\count297
+\nofMParguments=\count298
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count299
+\MPscratchDim=\dimen196
+\MPnumerator=\count300
+\makeMPintoPDFobject=\count301
+\everyMPtoPDFconversion=\toks33
 ) (D:\.programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -799,30 +706,24 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (D:\.programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-
-Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
-ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
-your preamble.
- on input line 6.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 16.
-[1
+ [1
 
-{C:/Users/nikyoff/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(task4_2.aux) ) 
+{C:/Users/nikyoff/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (task4_2.a
+ux) ) 
 Here is how much of TeX's memory you used:
- 26058 strings out of 475385
- 671634 string characters out of 2788626
- 1109915 words of memory out of 3000000
- 47033 multiletter control sequences out of 15000+600000
+ 16107 strings out of 475385
+ 334540 string characters out of 2788626
+ 666942 words of memory out of 3000000
+ 37216 multiletter control sequences out of 15000+600000
  470056 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 105i,9n,107p,727b,947s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\nikyoff\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2
-a/dpi600\larm1000.pk>
+ 104i,9n,107p,412b,935s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\nikyoff\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\l
+arm1000.pk>
 Output written on task4_2.pdf (1 page, 6025 bytes).
 PDF statistics:
  22 PDF objects out of 1000 (max. 8388607)
