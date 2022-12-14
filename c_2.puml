@@ -1,0 +1,20 @@
+@startuml
+
+state "Контроль времени" as state1
+state1 : Проверка()
+
+state "Установка времени" as state2 {
+    state "Изменение часов" as state3
+    state3 : 
+
+    state "Изменение минут" as state4
+    state4 : 
+}
+
+[*] -->  state1 : включение
+state1 --> [*] : выключение/сброс
+state1 -> state3 : режим
+state3 --> state4 : установка
+state2 -> state1 : установка
+
+@enduml

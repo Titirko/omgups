@@ -1,0 +1,98 @@
+@startuml
+skinparam style strictuml
+hide empty methods
+hide empty members
+
+class Client
+
+class ConcreteVisitors {
+    ...
+    + visit(e: ElementA)
+    + visit(e: ElementB)
+}
+
+interface Element {
+    + accept(v: Visitor)
+}
+
+interface Visitor {
+    + visit(e: ElementA)
+    + visit(e: ElementB)
+}
+
+class ElementA {
+    ...
+    + featureA()
+    + accept(v: Visitor)
+}
+
+class ElementB {
+    ...
+    + featureB()
+    + accept(v: Visitor)
+}
+
+
+' Visitor
+<> visitor_down_1
+Visitor -- visitor_down_1
+
+' visitor_down_1
+visitor_down_1 -> ElementB
+ElementA <- visitor_down_1
+
+' ElementA
+<> element_a_down
+ConcreteVisitors -[hidden] ElementA
+ElementA .. element_a_down
+
+' ElementB
+<> element_b_down
+ElementB -[hidden] Element
+ElementB .. element_b_down
+
+' Element
+<> element_down
+Element <.. element_down
+
+' element links
+element_a_down . element_b_down
+element_b_down . element_down
+
+
+' client links
+<> client_element_up
+<> client_visitor_up
+<> client_element_right
+<> client_concrete_visitors_left
+<> client_concrete_visitors_down
+<> client_element_down
+
+Visitor <- client_element_up
+client_element_up -- Element
+
+client_concrete_visitors_left --- client_concrete_visitors_down
+client_element_right --- client_element_down
+
+Element <- client_element_right
+client_concrete_visitors_left -> ConcreteVisitors
+
+client_visitor_up .> Visitor
+client_visitor_up .. ConcreteVisitors
+
+visitor_down_1 --[hidden]- Client
+client_concrete_visitors_down - Client
+Client - client_element_down
+
+
+' notes
+note "element.accept(<b>new</b> ConcreteVisitor())" as client_note
+note "// Методы Посетителя\n// знают тип элемента с\n// которым работают.\ne.featureB()" as concrete_visitors_note
+note "v.visit(<b>this</b>)" as element_b_note
+
+' notes links
+Client .. client_note
+ConcreteVisitors .... concrete_visitors_note
+ElementB .... element_b_note
+
+@enduml
