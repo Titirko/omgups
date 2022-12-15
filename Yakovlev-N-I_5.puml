@@ -1,6 +1,6 @@
 @startuml
 skinparam state {
-    BorderColor FF0000
+    BorderColor #FF0000
     BackgroundColor #FFF8DC
 }
 skinparam shadowing true

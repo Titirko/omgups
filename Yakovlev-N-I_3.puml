@@ -1,7 +1,7 @@
 @startuml
 skinparam sequence {
     ArrowColor #FF0000
-    ParticipantBorderColor FF0000
+    ParticipantBorderColor #FF0000
     ParticipantBackgroundColor #FFF8DC
 }
 skinparam shadowing true

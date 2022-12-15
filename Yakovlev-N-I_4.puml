@@ -1,11 +1,11 @@
 @startuml
 skinparam interface {
-    BorderColor FF0000
+    BorderColor $FF0000
     BackgroundColor #FFF8DC
 }
 skinparam component {
     ArrowColor #FF0000
-    BorderColor FF0000
+    BorderColor $FF0000
     BackgroundColor #FFF8DC
 }
 skinparam shadowing true
